@@ -1,11 +1,3 @@
 {
-  "/about/page": "app/about/page.js",
-  "/api/form-submit/route": "app/api/form-submit/route.js",
-  "/clients/page": "app/clients/page.js",
-  "/contact/page": "app/contact/page.js",
-  "/industries/[slug]/page": "app/industries/[slug]/page.js",
-  "/industries/page": "app/industries/page.js",
-  "/insights/[slug]/page": "app/insights/[slug]/page.js",
-  "/insights/page": "app/insights/page.js",
   "/page": "app/page.js"
 }
